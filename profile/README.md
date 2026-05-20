@@ -1,4 +1,4 @@
-# DIC Consultores
+# D&C Consultores
 
 **Consultoría Estratégica en Transformación Digital basada en Procesos e Institucionalización.**
 
